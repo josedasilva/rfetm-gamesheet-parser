@@ -1,2 +1,4 @@
 # rfetm-gamesheet-parser
-RFETM GAme Sheet Parser
+RFETM Game Sheet Parser
+
+Parse game sheets and return as JSON formated data
